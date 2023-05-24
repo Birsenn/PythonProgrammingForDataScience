@@ -97,19 +97,3 @@ all_calculation(26, 43, 65, 6)
 #yukarıdaki fonksiyonda a local değişkendir, warm ise global değişkendir.
 #local değişkenleri sağ alt köşedeki bölümde göremeyiz
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
