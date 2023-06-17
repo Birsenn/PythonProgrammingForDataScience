@@ -30,13 +30,8 @@ type(s) #set
 # text = "The goal is to turn data into information, and information into insight"
 
 def upperAndSpace(string):
-    new_list = []
-    string = string.replace(",", " ")
-    string = string.replace(".", " ")
-    string = string.split()
-    for i in string:
-        new_list.append(i.upper())
-    return new_list
+    new_list = string.upper().replace(",", " ").replace(".", " ").split()
+    print(new_list)
 
 string = "The goal is to turn data into information, and information into insight."
 
